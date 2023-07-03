@@ -1,0 +1,18 @@
+.navbar-item{
+    text-decoration: none;
+    font-weight: 400;
+    transform: scale(1);
+    margin: 3%;
+    
+}
+.navbar-item:hover{
+    transform: scale(1.3);
+    text-decoration: underline;
+}
+.is-rounded{
+    transform: scale(1);
+}
+.is-rounded:hover{
+    margin-top: 40px;
+    transform: scale(1.2);
+}
